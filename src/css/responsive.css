@@ -1,0 +1,22 @@
+@media (max-width: 600px) {
+    body {
+        padding: 24px;
+    }
+
+    h1 {
+        font-size: 75px;
+    }
+
+    h2 {
+        font-size: 36px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+
+    .footnote {
+        font-size: 14px;
+    }
+}
