@@ -29,6 +29,8 @@ h3 {
     opacity: 0.7;
 }
 
+
+
 .text-center {
     text-align: center !important;
 }
@@ -43,6 +45,7 @@ h3 {
 .hero {
     background: #ffeff5;
     padding: 80px 20px;
+    border-radius: 8px;
 }
 
 .navigation-links {
@@ -116,6 +119,21 @@ h3 {
     text-align: center;
     text-decoration: none;
     display: block;
+}
+
+.contact-me {
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-me .col-sm {
+    max-width: 50px;
+}
+
+.contact-me .icon {
+    color: #565656;
+    width: 33px;
 }
 
 .footnote {
