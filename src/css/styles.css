@@ -40,6 +40,11 @@ h3 {
     justify-content: space-between;
 }
 
+.hero {
+    background: #ffeff5;
+    padding: 90px 20px;
+}
+
 .navigation-links {
     display: flex;
     margin-top: 40px;
@@ -48,7 +53,7 @@ h3 {
 }
 
 .navigation-links a {
-    margin: 20px;
+    margin: 0 20px;
 }
 
 .primary-link {
@@ -68,6 +73,10 @@ h3 {
     text-transform: capitalize;
     color: var(--primary-color);
     border: 1px solid var(--primary-color);
+}
+
+.container {
+    margin-top: 20px;
 }
 
 .mb-3 {
