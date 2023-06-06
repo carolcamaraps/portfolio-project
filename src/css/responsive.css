@@ -1,7 +1,5 @@
 @media (max-width: 600px) {
-    body {
-        padding: 24px;
-    }
+   
 
     h1 {
         font-size: 75px;
@@ -15,8 +13,19 @@
         font-size: 22px;
     }
 
+    .hero-about {
+        text-align: center;
+        padding: 100px 30px 90px 30px;
+    }
+
+    .contact-me-section {
+        padding: 20px;
+    }
+
 
     .footnote {
         font-size: 14px;
+        padding: 20px;
     }
 }
+
