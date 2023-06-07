@@ -90,7 +90,7 @@ h3 {
 
 .featured-projects {
     display: block;
-    margin-bottom: 75px;
+    margin-bottom: 100px;
 }
 
 .featured-projects h2 {
@@ -154,7 +154,7 @@ h3 {
 
 
 .hero-about {
-    padding: 100px 90px 90px 170px;
+    padding: 100px 90px 90px 120px;
     
 }
 
@@ -163,7 +163,7 @@ h3 {
 }
 
 .hero-about h4 {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 700;
 }
 
@@ -201,7 +201,7 @@ h3 {
 }
 
 .courses h4 {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 700;
     margin-bottom: 30px;
 }
@@ -210,9 +210,15 @@ h3 {
     color: var(--primary-color);
     text-align: center;
     text-decoration: none;
+    font-size: 28px;
     font-weight: 700;
     display: block;
     margin: auto;
+}
+
+.courses p {
+    font-size: 20px;
+    margin-top: 12px;
 }
 
 .courses .col-md-6 {
