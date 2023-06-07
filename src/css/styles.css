@@ -41,13 +41,16 @@ h3 {
     flex-wrap: inherit;
     align-items: center;
     justify-content: space-between;
-    background: #F8F9FA;
     padding: 12px;
 }
 
 .hero {
     background: #ffeff5;
     padding: 100px 30px 90px 30px;
+}
+
+.hero h3 {
+    padding: 12px;
 }
 
 .navigation-links {
